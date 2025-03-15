@@ -22,6 +22,8 @@ b) Thread based Multitasking  [Diagram : 10th Dec]
 ![image](https://github.com/user-attachments/assets/a1cb406c-d2a7-4b86-a723-6030291ac9e7)
 
 
+
+
 Process based Multitasking :
 ----------------------------
 If a CPU is switching from one subtask(Thread) of one process to another subtask of another process then it is called Process based Multitasking.
